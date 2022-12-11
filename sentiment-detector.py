@@ -19,7 +19,5 @@ def classify_sentiment(text):
   else:
     return "negative"
 
-# Test the function with some example input text in different languages
-print(classify_sentiment('Kocham ten film!'))
-print(classify_sentiment("Je déteste ce film!"))
-print(classify_sentiment("Eu amo esse filme!"))
+    
+print(classify_sentiment('All good bruh'))
